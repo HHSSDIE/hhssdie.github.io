@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hhssdie.github.io/baseurl/sitemap.xml
+Sitemap: https://hhssdie.github.io/al-folio/sitemap.xml
